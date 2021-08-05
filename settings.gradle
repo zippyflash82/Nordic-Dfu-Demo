@@ -1,0 +1,2 @@
+rootProject.name = "Dfu demo"
+include ':app'

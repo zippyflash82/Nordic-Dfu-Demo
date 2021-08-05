@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dfu demo</string>
+    <string name="upload_firmware">Upload Firmware</string>
+    <string name="list_devices">List Devices</string>
+</resources>
